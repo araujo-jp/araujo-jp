@@ -1,11 +1,24 @@
 # Hello there  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
+<p align="left">
+  <a href="araujojp@pm.me">
+    <img src="https://img.shields.io/badge/-araujojp@pm.me-263163?style=flat-square&logo=Protonmail&logoColor=white&link=mailto:araujojp@pm.me" />
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/Jo%C3%A3o%20Paulo%20Ara%C3%BAjo%238487-4050ED?style=flat-square&logo=Discord&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/araujo-jp">
+    <img src="https://img.shields.io/badge/-João%20Paulo%20Araújo-0966C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/araujo-jp" />
+  </a>
+</p>
+
+
 <img align="right" alt="GIF" src="https://media.giphy.com/media/cODrlNTkGnZGVtVagd/giphy.gif?cid=ecf05e47tgxdhlopll6z197fnh0pzlcmyf6ygnpwik8yo7b2&rid=giphy.gif&ct=g" width="400" height="220" />
 
 <!-- Description -->
-- 📫 How to reach me: araujojp@pm.me
+- 😎 Bem-vindo ao meu perfil! Sou estudante do curso de Sistemas de informação, programador em meio período e em busca de aventuras em tempo integral. Obrigado pela visita!
 
-#### Top Technologies
+### Tenho interesse
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
